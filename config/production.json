@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://tranquangvu:quangvu@devconnect-hlbbi.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"46f510c0bdad6b7d3297",
+    "githubSecret":"b33c3b7d0e8e7a798b3d0a1546de79c041a3b9a6"
+}

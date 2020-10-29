@@ -1,0 +1,15 @@
+npm init -> author , liscense
+
+npm i express express-validation bcryptjs config gravatar jsonwebtoken mongoose request --save
+npm i -D nodemon concurrently
+
+setting server.js
+
+npm run server
+ 
+config database
+ 
+node server.js
+
+
+npm run dev
